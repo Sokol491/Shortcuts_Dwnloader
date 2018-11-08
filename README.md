@@ -19,3 +19,10 @@
 
 
 ![screenshot of sample](https://github.com/Sokol491/Shortcuts_Dwnloader/blob/master/IMG_3454.gif)
+
+## Updater - инструмент для создания словаря с данными. 
+ 
+
+
+![screenshot of sample](https://github.com/Sokol491/Shortcuts_Dwnloader/blob/master/IMG_3456.gif)
+
