@@ -22,6 +22,10 @@
 
 ## Updater - инструмент для создания словаря с данными. 
  
+"key1" - версия
+"key2" - ссылка на iCloud
+"key3" - комментарий
+"key4" - ссылка в Base64
 
 
 ![screenshot of sample](https://github.com/Sokol491/Shortcuts_Dwnloader/blob/master/IMG_3456.gif)
