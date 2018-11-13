@@ -1,22 +1,22 @@
 # Shortcuts_Dwnloader
 ## English
 ## Dwnloader - opportunities Shortcats the updates of the demonstration.
-1) GitHub get video files SV "Dictionary".
-2) cover for binding elsewhere on another server is not installed.
-3) if the version of access Bolek clean peel, V. is added to the menu and run the test application "Available Obnovlenie".
-4) press reception "is Available Obnovlenie", other users are not innovations opisanie, pokazyvaet sehi new.
-
+1) Receives a file from GitHub in the form of a "dictionary".
+2) Verifies the version of the installed command and the version of the command on the server.
+3) If a newer version of the command is available, it adds to the menu, when the command starts, the button "Update available".
+4) When you click on the "Update available" button, the user is shown a new version and a description of all the innovations.
 
 ![screenshot of sample](https://github.com/Sokol491/Shortcuts_Dwnloader/blob/master/IMG_3442.gif)
 
 ## 2 Dwnloader - variant Dwnloader room to remove astrojets. 
-Dann V. Shortcat remove updates fast s represents the first download.
-1) GitHub get video files SV "Dictionary".
-2) cover for binding elsewhere on another server is not installed.
-3) if the version of access Bolek clean peel, V. is added to the menu and run the test application "Available Obnovlenie".
-4) press reception "is Available Obnovlenie", added new V. a list of the other cover.
+This Shortcat's presents the ability to FAST download updates.
 
-glavnae this another feature that you encode in Base64. 
+1) Receives a file from GitHub in the form of a "dictionary".
+2) Verifies the version of the installed command and the version of the command on the server.
+3) If a newer version of the command is available, it adds to the menu, when the command starts, the button "Update available".
+4) When you click on the button "Update is available," adds a new version immediately to the list of commands.
+
+glavnae is another feature that you encode in Base64.
 
 
 ![screenshot of sample](https://github.com/Sokol491/Shortcuts_Dwnloader/blob/master/IMG_3454.gif)
