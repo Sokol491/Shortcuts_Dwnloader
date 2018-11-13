@@ -1,5 +1,5 @@
 # Shortcuts_Dwnloader
-##English
+## English
 ## Dwnloader - opportunities Shortcats the updates of the demonstration.
 1) GitHub get video files SV "Dictionary".
 2) cover for binding elsewhere on another server is not installed.
@@ -34,7 +34,7 @@ glavnae this another feature that you encode in Base64.
 
 ![screenshot of sample](https://github.com/Sokol491/Shortcuts_Dwnloader/blob/master/IMG_3456.gif)
 
-##Русский
+## Русский
 ## Dwnloader - демонстрация возможности обновления Shortcats.
 1) Получает файл с GitHub в виде "словаря".
 2) Сверяет версию установленной команды и версию команды на сервере.
