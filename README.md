@@ -1,14 +1,16 @@
-# Shortcuts_Dwnloader
+﻿# Shortcuts_Dwnloader
 ## English
-## Dwnloader - opportunities Shortcats the updates of the demonstration.
+## Dwnloader_en - opportunities Shortcats the updates of the demonstration.
 1) Receives a file from GitHub in the form of a "dictionary".
 2) Verifies the version of the installed command and the version of the command on the server.
 3) If a newer version of the command is available, it adds to the menu, when the command starts, the button "Update available".
 4) When you click on the "Update available" button, the user is shown a new version and a description of all the innovations.
 
+Link: https://github.com/Sokol491/Shortcuts_Dwnloader/raw/master/Dwnloader_En.shortcut
+
 ![screenshot of sample](https://github.com/Sokol491/Shortcuts_Dwnloader/blob/master/IMG_3442.gif)
 
-## 2 Dwnloader - variant Dwnloader room to remove astrojets. 
+## Dwnloader2_en - variant Dwnloader room to remove astrojets. 
 This Shortcat's presents the ability to FAST download updates.
 
 1) Receives a file from GitHub in the form of a "dictionary".
@@ -18,6 +20,8 @@ This Shortcat's presents the ability to FAST download updates.
 
 glavnae is another feature that you encode in Base64.
 
+
+Link: https://github.com/Sokol491/Shortcuts_Dwnloader/raw/master/Dwnloader2_En.shortcut
 
 ![screenshot of sample](https://github.com/Sokol491/Shortcuts_Dwnloader/blob/master/IMG_3454.gif)
 
@@ -31,6 +35,7 @@ glavnae is another feature that you encode in Base64.
 
 "key4" - a reference to Base64
 
+Link: https://github.com/Sokol491/Shortcuts_Dwnloader/raw/master/Updater.shortcut
 
 ![screenshot of sample](https://github.com/Sokol491/Shortcuts_Dwnloader/blob/master/IMG_3456.gif)
 
@@ -41,10 +46,11 @@ glavnae is another feature that you encode in Base64.
 3) Если доступна более новая версия команды, добавляет в меню, при запуске команды, кнопку "Доступно обновление".
 4) При нажатии на кнопку "Доступно обновление", показывает пользователю новую версию и описание всех нововведений.
 
+Ссылка: https://github.com/Sokol491/Shortcuts_Dwnloader/raw/master/Dwnloader.shortcut
 
 ![screenshot of sample](https://github.com/Sokol491/Shortcuts_Dwnloader/blob/master/IMG_3442.gif)
 
-## Dwnloader 2 - второй вариант Dwnloader'a. 
+## Dwnloader2 - второй вариант Dwnloader'a. 
 В данном Shortcat's представлена возможность БЫСТРОЙ загрузки обновления.
 1) Получает файл с GitHub в виде "словаря".
 2) Сверяет версию установленной команды и версию команды на сервере.
@@ -53,6 +59,7 @@ glavnae is another feature that you encode in Base64.
 
 главная особенность этой версии в том, что она получает закодированный файл в Base64. 
 
+Ссылка: https://github.com/Sokol491/Shortcuts_Dwnloader/raw/master/Dwnloader2.shortcut
 
 ![screenshot of sample](https://github.com/Sokol491/Shortcuts_Dwnloader/blob/master/IMG_3454.gif)
 
@@ -66,6 +73,7 @@ glavnae is another feature that you encode in Base64.
 
 "key4" - ссылка в Base64
 
+Ссылка: https://github.com/Sokol491/Shortcuts_Dwnloader/raw/master/Updater.shortcut
 
 ![screenshot of sample](https://github.com/Sokol491/Shortcuts_Dwnloader/blob/master/IMG_3456.gif)
 
